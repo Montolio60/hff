@@ -1,0 +1,16 @@
+{
+  "name": "some",
+  "version": "1.0.0",
+  "description": "sdfgsdgsdfgsdfg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Heo\" ",
+    "start": "echo \"aaa\""
+  },
+  "author": "fdgdsgfsf",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
